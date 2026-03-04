@@ -1,7 +1,7 @@
 # Projet : Simplification d'Images PBM
 
 Implémentation d’un **solveur SAT** pour tester la satisfiabilité de formules CNF. 
-Le projet inclut: 
+<br/> Le projet inclut: 
 - un solveur naïf.
 - un solveur optimisée utilisant le two-watched literals pour la propagation unitaire et le backtracking.
 
