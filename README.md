@@ -22,7 +22,7 @@ Usage: bin/solveur_naif <file.cnf>
 - Satisfiabilité ou Insatisfiablité de la formule cnf.
 <br/> (Ps: si la formule est satisfiable , l'affectation qui la satisfait est renvoyé)
 
-## 2. solveur_ruse
+### 2. solveur_ruse
 
 **Usage :**
 
