@@ -19,7 +19,7 @@ Usage: bin/solveur_naif <file.cnf>
 - <file.cnf> : fichier au format cnf
 
 **Sorties :**
-- Satisfiabilite ou Insatisfiablité de la formule cnf.
+- Satisfiabilité ou Insatisfiablité de la formule cnf.
 <br/> (Ps: si la formule est satisfiable , l'affectation qui la satisfait est renvoyé)
 
 ## 2. solveur_ruse
@@ -32,5 +32,5 @@ Usage: bin/solveur_ruse <file.cnf>
 - <file.cnf> : fichier au format cnf
 
 **Sorties :**
-- Satisfiabilite ou Insatisfiablité de la formule cnf.
+- Satisfiabilité ou Insatisfiablité de la formule cnf.
 <br/> (Ps: si la formule est satisfiable , l'affectation qui la satisfait est renvoyé)
